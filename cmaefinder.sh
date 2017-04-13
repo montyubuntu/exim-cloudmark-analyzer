@@ -9,7 +9,7 @@ TMP="/var/tmp"
 CORES='2' # Number of available cores
 SMTP_PREFIX='smtp' #Directory prefix for your SMTP logfiles
 MX_PREFIX='mx' #Directory prefix for your MX/POP/IMAP logfiles
-ZGREP='/bin/bzgrep' # Define tour bzgrep / zgrep binary for zipped files
+ZGREP='/bin/bzgrep' # Define your bzgrep / zgrep binary for zipped files
 VERBOSE='0'
 
 # Common variables
