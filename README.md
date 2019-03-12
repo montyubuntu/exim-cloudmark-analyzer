@@ -1,3 +1,5 @@
+Moved to gitlab: https://gitlab.com/Manjar0/exim-cloudmark-analyzer
+
 # exim-cloudmark-analyzer
 Tool that finds CMAE fingerprints in EXIM log files by parallel grep.
 
